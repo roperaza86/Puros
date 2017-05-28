@@ -1,0 +1,117 @@
+<wpml-config>
+  <admin-texts>
+    <key name="mr_tailor_theme_options">
+      <key name="last_tab"/>
+      <key name="favicon">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="top_bar_switch"/>
+      <key name="top_bar_background_color"/>
+      <key name="top_bar_typography"/>
+      <key name="top_bar_text"/>
+      <key name="header_layout"/>
+      <key name="sticky_header"/>
+      <key name="site_logo">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="site_logo_retina">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="logo_height"/>
+      <key name="header_paddings"/>
+      <key name="main_header_background_color"/>
+      <key name="main_header_background_transparency"/>
+      <key name="main_header_typography">
+        <key name="font-size"/>
+        <key name="color"/>
+      </key>
+      <key name="main_header_wishlist"/>
+      <key name="main_header_shopping_bag"/>
+      <key name="main_header_search_bar"/>
+      <key name="footer_background_color"/>
+      <key name="footer_texts_color"/>
+      <key name="footer_links_color"/>
+      <key name="credit_card_icons">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="footer_copyright_text"/>
+      <key name="catalog_mode"/>
+      <key name="breadcrumbs"/>
+	  <key name="shop_layout"/>
+      <key name="products_per_column"/>
+      <key name="products_per_page"/>
+      <key name="products_animation"/>
+      <key name="product_hover_animation"/>
+      <key name="sale_text"/>
+      <key name="out_of_stock_text"/>
+      <key name="my_account_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="products_layout"/>
+	  <key name="recently_viewed_products"/>
+      <key name="related_products_per_view"/>
+      <key name="sidebar_blog_listing"/>
+      <key name="main_color"/>
+      <key name="main_bg_color"/>
+      <key name="main_bg_image">
+        <key name="url"/>
+        <key name="id"/>
+        <key name="height"/>
+        <key name="width"/>
+        <key name="thumbnail"/>
+      </key>
+      <key name="main_font_source"/>
+      <key name="main_font_typekit_kit_id"/>
+      <key name="main_typekit_font_face"/>
+      <key name="main_font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="subsets"/>
+      </key>
+      <key name="secondary_font_source"/>
+      <key name="secondary_font_typekit_kit_id"/>
+      <key name="secondary_typekit_font_face"/>
+      <key name="secondary_font">
+        <key name="font-family"/>
+        <key name="font-options"/>
+        <key name="google"/>
+        <key name="subsets"/>
+      </key>
+      <key name="facebook_link"/>
+      <key name="twitter_link"/>
+      <key name="pinterest_link"/>
+      <key name="linkedin_link"/>
+      <key name="googleplus_link"/>
+      <key name="rss_link"/>
+      <key name="tumblr_link"/>
+      <key name="instagram_link"/>
+      <key name="youtube_link"/>
+      <key name="vimeo_link"/>
+      <key name="custom_css"/>
+      <key name="header_js"/>
+      <key name="footer_js"/>
+      <key name="REDUX_last_saved"/>
+    </key>
+  </admin-texts>
+</wpml-config>

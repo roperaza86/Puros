@@ -1,0 +1,176 @@
+/*
+Theme Name: Mr. Tailor
+Theme URI: http://www.getbowtied.com/
+Author: Get Bowtied
+Author URI: http://www.getbowtied.com/
+Description: Mr. Tailor is a responsive, super-mobile-friendly theme for WordPress and WooCommerce.
+Version: 1.4.5
+License:
+License URI:
+Text Domain: mr_tailor
+Domain Path: /languages/
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, fixed-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+*/
+
+body, #st-container {
+	background-image: url(images/background.jpg);
+	background-position: top center;
+}
+
+.st-content {
+	background-color: transparent !important;
+}
+
+.top-headers-wrapper {
+	background: rgba(0,0,0,0.7);
+}
+
+.wpb_row, .wpb_content_element, ul.wpb_thumbnails-fluid > li, .last_toggle_el_margin, .wpb_button {
+	margin-bottom: 0px !important;
+}
+
+#primary .vc_custom_1430309183273 {
+	background-color: rgba(0,0,0,0.7) !important;
+}
+
+
+
+.membership h3 a, .membership li.shown {
+	color: #000 !important;
+	text-align: center !important;
+}
+
+.membership h3 {
+	padding: 0px !important;
+	margin: 0px !important;
+	font-size: 1.2em !important;
+}
+
+.membership h2 {
+	font-size: 1.6em !important;
+	line-height: 1em !important;
+}
+.pricebutton {
+	background: #bb7328;
+	padding: 10px 20px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+body .pricebutton a.button {
+	color: #fff !important;
+	opacity: 1 !important;
+}
+
+.membership .products .pricebutton a {
+	color: #fff !important;
+}
+
+.membership h6 {
+	margin-bottom: 20px;
+	color: #ccc !important;
+}
+
+
+.page-container {
+	background-color: #fff;
+	padding: 40px;
+	margin-bottom: 40px;
+}
+
+.woocommerce-message::before, .woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-message::before {
+	color: #dd9933 !important;
+}
+
+body .page-container h2, body .page-container h3, body .page-container h4, body .page-container h1 {
+	color: #dd9933 !important;
+}
+
+.woocommerce-message, .woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message{
+	color: #dd9933 !important;
+	border-top: 2px solid #dd9933 !important;
+}
+.woocommerce-breadcrumb {
+	text-transform: uppercase;
+}
+.page-container table tr th {
+	color: #000;
+}
+
+select, .chosen-results {
+	border: 1px solid #ccc;
+}
+.woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price {
+	color: #dd9933 !important;
+}
+
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a {
+	color: #dd9933 !important;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active {
+	border-bottom-color: #dd9933 !important; 
+}
+
+.woocommerce #review_form #respond textarea {
+	border: 1px solid #ccc;
+}
+
+.woocommerce h2 .price {
+	color: #000;
+	font-size: 1.8em !important;
+}
+
+.woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb {
+	color: #fff !important;
+
+}
+.woocommerce h2, h2 {
+	font-size: 1em !important;
+}
+
+.woocommerce .product-grid .shown h2 {
+	font-size: 1.2em !important;
+	
+}
+
+.woocommerce ul.products h3 {
+	font-size: 1.2em !important;
+	font-weight: bold;
+	line-height: 1em;
+}
+
+.woocommerce ul.products li {
+	text-align: center;
+}
+
+div#coupons_list {
+	text-align: center;
+}
+
+.woocommerce-checkout div#coupons_list h2 {
+	text-align: center;
+}
+
+.site-header ul, .site-header ol, .site-header dl, .site-header-sticky ul, .site-header-sticky ol, .site-header-sticky dl {
+	font-size: 1.3em;
+	text-transform: uppercase;
+}
+
+
+.main-navigation ul li a {
+	text-transform: uppercase !important;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea, .country_select.select2-container, .state_select.select2-container {
+	border: 1px solid #ccc !important; 
+}
+
+#fancybox-wrap, #fancybox-content {
+	
+}
+
+.membership .product_thumbnail img {
+	height: 300px;
+	width: auto;
+}

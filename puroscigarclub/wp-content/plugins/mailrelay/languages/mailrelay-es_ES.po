@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mailrelay wordpress addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-13 14:13-0300\n"
+"PO-Revision-Date: 2016-05-17 10:50-0300\n"
+"Last-Translator: Micheli <mailrelay.teste@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../connection_settings.php:30
+#: ../mailrelay.php:128
+msgid "Connection Settings"
+msgstr "Configuración de Conexión"
+
+#: ../connection_settings.php:36
+msgid "Host:"
+msgstr "Servidor:"
+
+#: ../connection_settings.php:38
+msgid "Please enter the host that you have in your Mairelay welcome email. Please enter it without the initial http:// (for example demo.ip-zone.com)"
+msgstr "Por favor inserte el host que has recibido en el email de bienvenida de Mailrelay. Por favor, inserte-o sin la inicial http:// (por ejemplo: demo.ip-zone.com)"
+
+#: ../connection_settings.php:40
+msgid "API Key: "
+msgstr "Clave API: "
+
+#: ../connection_settings.php:42
+msgid "Please enter your API key. You can generate your API key on your Mailrelay panel, Configuration -> API access -> Generate API key"
+msgstr "Por favor inserte su clave API. Puedes gneerar su clave API en tu panel Mailrelay, Configuración -> acceso API -> Gneerar clave API"
+
+#: ../connection_settings.php:52
+msgid "Sync new users automatically"
+msgstr "Sincronizar nuevos usuarios automáticamente"
+
+#: ../connection_settings.php:61
+msgid "Groups"
+msgstr "Grupos"
+
+#: ../connection_settings.php:69
+msgid "Groups that new users will be automatically synced to."
+msgstr "Grupos para los cuales los nuevos usuarios se sincronizarán automáticamente."
+
+#: ../connection_settings.php:77
+#: ../feeds_settings.php:150
+#: ../posts_settings.php:129
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: ../feeds_settings.php:18
+#: ../mailrelay.php:130
+msgid "Feeds Settings"
+msgstr "Configuraciones de los Feeds"
+
+#: ../feeds_settings.php:81
+msgid "Feeds like newsletters:"
+msgstr "Feeds como Boletines"
+
+#: ../feeds_settings.php:83
+#: ../feeds_settings.php:103
+msgid "To send feeds like newsletters"
+msgstr "Para enviar los feeds como Boletines"
+
+#: ../feeds_settings.php:85
+msgid "Please select a group to send the feeds"
+msgstr "Por favor, selecciona un grupo para enviar los feeds"
+
+#: ../feeds_settings.php:105
+#: ../posts_settings.php:84
+msgid "Newsletter From:"
+msgstr "Boletín De:"
+
+#: ../feeds_settings.php:116
+#: ../posts_settings.php:95
+msgid "Use this field like Newsletter From"
+msgstr "Usa este campo como boletín De"
+
+#: ../feeds_settings.php:118
+#: ../posts_settings.php:97
+msgid "Newsletter Reply To:"
+msgstr "Responder boletín para:"
+
+#: ../feeds_settings.php:129
+#: ../posts_settings.php:108
+msgid "Use this field like Newsletter Reply To"
+msgstr "Usa este campo como Respuesta del Boletín para"
+
+#: ../feeds_settings.php:131
+#: ../posts_settings.php:110
+msgid "Newsletter Report To:"
+msgstr "Informe de Boletín Para:"
+
+#: ../feeds_settings.php:142
+#: ../posts_settings.php:121
+msgid "Use this field like Newsletter Report To"
+msgstr "Usa este campo para el envío del informe del Boletín"
+
+#: ../feeds_settings.php:144
+#: ../posts_settings.php:123
+msgid "Allow users to unsubscribe:"
+msgstr "Permitir usuarios cancelar la suscripción"
+
+#: ../feeds_settings.php:146
+msgid "Enable users to unsubscribe from the feeds"
+msgstr "Permitir usuarios a cancelar la suscripción de los  feeds"
+
+#: ../mailrelay.php:129
+#: ../posts_settings.php:18
+msgid "Posts Settings"
+msgstr "Configuración de Posts"
+
+#: ../mailrelay.php:131
+#: ../sync_users.php:22
+msgid "Sync Users"
+msgstr "Sincronizar Usuarios"
+
+#: ../mailrelay.php:237
+msgid "Please select a group to send this post"
+msgstr "Por favor selecciona un grupo para enviar este post"
+
+#: ../mailrelay.php:240
+msgid "- Don't send -"
+msgstr "No enviar"
+
+#: ../mailrelay.php:259
+msgid "Alternative Title"
+msgstr "Título Alternativo"
+
+#: ../mailrelay.php:261
+msgid "If you enter a value in this field it will be used instead of post title"
+msgstr "Si usted insertar un valor en este campo será usado en lugar del título del post"
+
+#: ../mailrelay.php:474
+msgid "Unsubscribe"
+msgstr "Cancelar suscripción"
+
+#: ../mailrelay.php:479
+msgid "View more"
+msgstr "Ver más"
+
+#: ../mailrelay.php:480
+msgid "Posted: "
+msgstr "Publicado: "
+
+#: ../posts_settings.php:80
+msgid "Posts like newsletters:"
+msgstr "Posts como Boletín"
+
+#: ../posts_settings.php:82
+msgid "Enable posts like newsletters"
+msgstr "Activar posts como Boletines"
+
+#: ../posts_settings.php:125
+msgid "Enable users to unsubscribe from the newsletters"
+msgstr "Activar usuarios a cancelar la suscripción de los Boletines"
+
+#: ../sync_users.php:72
+msgid "Please Select Group"
+msgstr "Por favor selecciona el grupo"
+
+#: ../sync_users.php:79
+msgid "All your Wordpress users will be synced with the groups you are choosing now."
+msgstr "Todos tus usuarios Wordpress serán sincronizados con los grupos que estás seleccionando ahora."
+
+#: ../sync_users.php:80
+msgid "To create new groups in Mailrelay, you must login into the control panel and click into the Mail Relay > Subscribers groups"
+msgstr "Para crear nuevos grupos en Mailrelay, debes logear en el panel de control y clicar en MailRelay > Grupos de suscriptores"
+
+#: ../sync_users.php:81
+msgid "Once there you can add a new group for your Wordpress users, or edit an existing one"
+msgstr "Una vez lá podrás añadir un nuevo grupo para los usuarios del WordPress, o editar un ya existente"
+
+#: ../sync_users.php:88
+msgid "WooCommerce options"
+msgstr "Opciones del WooCommerce "
+
+#: ../sync_users.php:91
+msgid "Sync all users and WooCommmerce customers"
+msgstr "Sincronizar todos los usuarios y clientes WooCommmerce"
+
+#: ../sync_users.php:92
+msgid "Sync only WooCommerce customers"
+msgstr "Sincronizar sólo clientes WooCommerce"
+
+#: ../sync_users.php:93
+msgid "Sync all users except WooCommerce customers"
+msgstr "Sincronizar todos los usuarios con excepción de los clientes WooCommerce"
+
+#: ../sync_users.php:103
+msgid "Start Sync"
+msgstr "Iniciar Sincronización"
+
+#: ../sync_users.php:118
+msgid "Please select at least one Group."
+msgstr "Por favor selecciona al menos un grupo"
+
+#~ msgid "Only sync WooCommerce customers"
+#~ msgstr "Sólo sincronizar clientes WooCommerce"
+
+#~ msgid "Select groups"
+#~ msgstr "Selecciona los grupos"
+
+#~ msgid "Username: "
+#~ msgstr "Nombre de usuario:"
+
+#~ msgid ""
+#~ "Please enter the username the you have in your Mailrelay welcome email."
+#~ msgstr ""
+#~ "Por favor introduce el nombre de usuario que tienes en tu e-mail de "
+#~ "bienvenida de Mailrelay."
+
+#~ msgid "Password: "
+#~ msgstr "Contraseña: "
+
+#~ msgid ""
+#~ "Please enter the password that you have in your Mailrelay welcome email."
+#~ msgstr ""
+#~ "Por favor introduce la contraseña que tienes en tu e-mail de bienvenida "
+#~ "de Mailrelay."
+
+#~ msgid ""
+#~ "The Mailrelay sync has finished successfully. Next you can check the "
+#~ "results of the sync:"
+#~ msgstr ""
+#~ "La sincronización de Mailrelay ha finalizado con éxito. Ahora puedes ver "
+#~ "el resultado de la sincronización:"
+
+#~ msgid "New users synced"
+#~ msgstr "Nuevos usuarios sincronizados"
+
+#~ msgid "Updated users"
+#~ msgstr "Usuarios actualizados"
+
+#~ msgid "Failed users"
+#~ msgstr "Usuarios fallidos"
+
+#~ msgid "Invalid host, username or password. Please Retry."
+#~ msgstr ""
+#~ "Servidor, nombre de usuario o contraseña incorrectos. Por favor, "
+#~ "inténtalo de nuevo."
+
+#~ msgid ""
+#~ "Your account does not have an API key. Please, generate one in your "
+#~ "Mailrelay's account: Settings -> API access -> Generate new API key."
+#~ msgstr ""
+#~ "Su cuenta no tiene una clave API. Por favor, genere una clave en su "
+#~ "cuenta Mailrelay: Configuración -> Acceso a API  -> Generar nueva clave "
+#~ "API."
+
+#~ msgid "Mailrelay Step 1 - Sync settings"
+#~ msgstr "Mailrelay Paso 1 - Parámetros de sincronización"
+
+#~ msgid "Mairelay Step 2 - Choose groups"
+#~ msgstr "Mailrelay Paso 2 - Escoge grupos"
+
+#~ msgid "Mailrelay Step 3 - Sync finished"
+#~ msgstr "Mailrelay Paso 3 - Sincronización finalizada"
+
+#~ msgid ""
+#~ "To retry the Mailrelay sync process please click <a href='%s'>here</a>."
+#~ msgstr ""
+#~ "Para repetir el proceso de sincronización de Mailrelay pulsa <a "
+#~ "href='%s'>aquí</a>."
